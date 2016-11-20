@@ -1,0 +1,11 @@
+c:\users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+c:\users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+c:\users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\nunit.framework.dll
+c:\users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.dll
+c:\users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+c:\users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\nunit.framework.xml
+c:\users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.xml
+c:\users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+c:\users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+c:\users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\техносила\documents\visual studio 2013\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
